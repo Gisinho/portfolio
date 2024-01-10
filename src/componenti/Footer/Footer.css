@@ -1,0 +1,22 @@
+.footer {
+    padding: 3em 0;
+    margin-top: 4em;
+    text-align: center;
+    background-color: #444;
+    
+  }
+  
+  .footer__link {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--clr-bg) !important;
+  }
+
+@media (max-width: 600px) {
+    .footer {
+      padding: 2em;
+      margin-top: 3em;
+    }
+  }
+
+  
